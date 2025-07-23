@@ -1,0 +1,14 @@
+names:
+- Green Light
+- Red Light
+- Stop
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: date-kaggle
+  url: https://universe.roboflow.com/invatare/date-kaggle/dataset/3
+  version: 3
+  workspace: invatare
+test: ../test/images
+train: ../train/images
+val: ../valid/images

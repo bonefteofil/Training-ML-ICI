@@ -1,0 +1,14 @@
+names:
+- Stop
+- left
+- right
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: stop-sign-arrows-zoiip
+  url: https://universe.roboflow.com/invatare/stop-sign-arrows-zoiip/dataset/1
+  version: 1
+  workspace: invatare
+test: ../test/images
+train: ../train/images
+val: ../valid/images
