@@ -4,6 +4,6 @@ During my practical training at the [National Institute for Research & Developme
 
 ## Project Structure
 - [Ultralytics YOLOv8](/Ultralytics_YOLOv8/) used to become familiar with the training process.
-- [Titanic dataset](/Titanic_data/) downloaded from [Kaggle](https://www.kaggle.com/c/titanic).
+- [Titanic dataset](/Titanic_dataset/) downloaded from [Kaggle](https://www.kaggle.com/c/titanic).
 - [SkLearn](/SkLearn_Titanic/) to experiment with multiple models using the Titanic dataset.
 - [PyTorch](/PyTorch_Titanic/) for training on the same dataset with greater control over hyperparameters.
