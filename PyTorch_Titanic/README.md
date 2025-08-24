@@ -1,6 +1,6 @@
 # Titanic Classification with PyTorch
 
-A simple machine learning project using PyTorch to predict Titanic survival based on passenger data such as age, gender, and class. See the [dataset folder](../Titanic_dataset/) for more information.  
+A simple machine learning project using [PyTorch](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) to predict Titanic survival based on passenger data such as age, gender, and class. See the [dataset folder](../Titanic_dataset/) for more information.  
 We tested three optimizers, each with multiple hyperparameter, to find the best combination.
 
 ## Results
